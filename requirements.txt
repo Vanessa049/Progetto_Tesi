@@ -1,0 +1,9 @@
+numpy>=1.24
+opencv-python>=4.8
+torch
+torchvision
+pandas
+scikit-learn
+seaborn
+Pillow
+matplotlib>=3.7
